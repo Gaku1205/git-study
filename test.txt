@@ -1,3 +1,4 @@
 Hello Git!
 branch testHello Pull Request!
 From conflict1 branch
+From conflict2 branch
